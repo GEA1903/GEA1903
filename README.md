@@ -1,8 +1,26 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=30&pause=500&color=F74F1D&background=FFBB1F00&vCenter=true&center=true&multiline=true&width=440&height=200&lineHeight=40&lines=The+power+of+programming;Always+evolving" alt="Typing SVG" />
+</a>
 
- I'm Gabriel. I'm currently studying Information Systems at UFRPE.
-    - I love technology and the art of programming. 
-    - I'm interested on working as a full-stack developer.
+</h1>
+
+
+
+
+
+
+
+
+
+<h1>Hi there 👋</h1> 
+
+<p>I'm Gabriel, a beginner programmer interested on learning and developing my programming skills. I'm currently studying Information Systems at UFRPE.</p> 
+  <ul> 
+    <li>I love technology and the art of programming.</li>
+    <li>My main goal it's to work as a full-stack developer.</li>
+  </ul>
+   
 ---
 
 ### Languages
@@ -46,8 +64,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GEA1903/GEA1903/output/github-contribution-grid-snake.svg">
 </picture>
 
----
 
-###Contact me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
