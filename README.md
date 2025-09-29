@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p>I'm Gabriel. I'm currently studying Information Systems at UFRPE.</p>.
-    <a>I love technology and the art of programming.</a> 
-    <a>I'm interested on working as a full-stack developer.</a>
+    - I love technology and the art of programming. 
+    - I'm interested on working as a full-stack developer.
 ---
 
 ### Languages
