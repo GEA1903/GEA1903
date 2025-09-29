@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm Gabriel. I'm currently studying Information Systems at UFRPE.
+
+ I'm Gabriel. I'm currently studying Information Systems at UFRPE.
     - I love technology and the art of programming. 
     - I'm interested on working as a full-stack developer.
 ---
@@ -33,7 +34,7 @@ I'm Gabriel. I'm currently studying Information Systems at UFRPE.
 
 
 ---
-## GitHub Stats
+### GitHub Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=GEA1903&show_icons=true&theme=radical)
 
 
