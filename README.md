@@ -1,8 +1,8 @@
 ## Hi there 👋
-<a>I'm Gabriel.</a>
-<a>I'm currently studying Information Systems at UFRPE.</a>
-<a>I love technology and the art of programming.</a>
-<a>I'm interested on working as a full-stack developer.</a>
+I'm Gabriel.
+I'm currently studying Information Systems at UFRPE.
+I love technology and the art of programming. 
+I'm interested on working as a full-stack developer.
 ---
 
 ### Languages
@@ -31,8 +31,9 @@
     title='Python'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-          
-###Tools
+---
+## GitHub Stats
+![My stats](https://github-readme-stats.vercel.app/api?username=GEA1903&show_icons=true&theme=radical)
 
 
 
