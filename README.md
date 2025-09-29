@@ -1,6 +1,39 @@
 ## Hi there 👋
+I'm Gabriel. I'm currently studying Information Systems at UFRPE.
+I love technology and the art of programming.
+I'm interested on working as a full-stack developer.
+---
 
-I'm Gabriel Escobar!
+### Languages
+
+<img 
+    allign='left'
+    width='40px'
+    title='HTML'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    allign='left'
+    width='40px'
+    title='CSS'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    allign='left'
+    width='40px'
+    title='JavaScript'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    allign='left'
+    width='40px'
+    title='Python'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+          
+###Tools
+
+
 
 
 <picture>
