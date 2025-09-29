@@ -1,8 +1,7 @@
 ## Hi there 👋
-I'm Gabriel.
-I'm currently studying Information Systems at UFRPE.
-I love technology and the art of programming. 
-I'm interested on working as a full-stack developer.
+<p>I'm Gabriel. I'm currently studying Information Systems at UFRPE.</p>.
+    <a>I love technology and the art of programming.</a> 
+    <a>I'm interested on working as a full-stack developer.</a>
 ---
 
 ### Languages
@@ -31,6 +30,8 @@ I'm interested on working as a full-stack developer.
     title='Python'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+
 ---
 ## GitHub Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=GEA1903&show_icons=true&theme=radical)
